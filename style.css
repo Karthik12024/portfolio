@@ -35,6 +35,7 @@ body {
     height: 50px;
     width: 50px;
     border-radius: 50%;
+    alt: logo;
 }
 
 .logo:hover {
